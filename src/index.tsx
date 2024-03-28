@@ -4,6 +4,8 @@ import { store } from './app/store';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { GlobalStyle } from './globalStyle';
+import { theme } from './theme';
+import { ThemeProvider } from 'styled-components';
 
 const container = document.getElementById('root')!;
 
@@ -11,8 +13,10 @@ const root = createRoot(container);
 
 root.render(
     <Provider store={store}>
-      <GlobalStyle />
-      <App />
+      <ThemeProvider theme={theme}>
+        <GlobalStyle />
+        <App />
+      </ThemeProvider>
     </Provider> 
 );
 
