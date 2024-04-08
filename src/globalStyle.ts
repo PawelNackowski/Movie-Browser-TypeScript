@@ -11,7 +11,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: "Poppins", sans-serif;
-    background-color: ${({ theme }) => theme.colors.white};
+    background-color: ${({ theme }) => theme.colors.lightGrey};
     display: flex;
     justify-content: center;
     color: ${({ theme }) => theme.colors.black};
