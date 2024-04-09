@@ -1,11 +1,7 @@
-import { TestComponent } from './teststyled';
+import { PopularMovie } from "./features/pages/popularMovie";
 
 function App() {
-  return (
-  <TestComponent>
-    TestComponent
-  </TestComponent>
-  );
+  return <PopularMovie />;
 }
 
 export default App;
