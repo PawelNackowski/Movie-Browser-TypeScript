@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/Movie-Browser-TypeScript/static/js/main.35ded3ed.js",
+    "static/js/453.94d665f4.chunk.js": "/Movie-Browser-TypeScript/static/js/453.94d665f4.chunk.js",
+    "static/media/poster.png": "/Movie-Browser-TypeScript/static/media/poster.3eb5ce59a1b7def922a3.png",
+    "static/media/star.svg": "/Movie-Browser-TypeScript/static/media/star.8663155c38d2739a01d98dddbf5d2ae1.svg",
+    "index.html": "/Movie-Browser-TypeScript/index.html",
+    "main.35ded3ed.js.map": "/Movie-Browser-TypeScript/static/js/main.35ded3ed.js.map",
+    "453.94d665f4.chunk.js.map": "/Movie-Browser-TypeScript/static/js/453.94d665f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.35ded3ed.js"
+  ]
+}
